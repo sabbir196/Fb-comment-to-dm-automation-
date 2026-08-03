@@ -1,0 +1,9 @@
+# Never commit real credentials or exported data with tokens
+.env
+*.env
+credentials.json
+secrets.json
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
